@@ -1,0 +1,14 @@
+/* Give each API result its own card */
+.api-section {
+  border: 1px solid #64ffe3;
+  border-radius: 12px;
+  padding: 16px;
+  margin: 16px auto;
+  max-width: 500px;
+  text-align: left;
+}
+
+/* Space out the list items */
+.api-section li {
+  margin-bottom: 10px;
+}
